@@ -51,13 +51,14 @@ Improved data quality through preprocessing
 Generated actionable insights using SQL and visualization tools
 Built a user-friendly dashboard for decision-making.
 
-✅ Conclusion
-This project showcases practical skills in data analysis, SQL querying, and data visualization. It reflects the ability to handle real-world datasets and present insights effectively using modern analytics tools.
 
 
-
-<img width="32" height="32" alt="icons8-power-bi-2021-32" src="https://github.com/user-attachments/assets/b89b19e7-7132-4b9d-a21f-48c6c9a2be50" />
+<img width="18" height="18" alt="icons8-power-bi-2021-32" src="https://github.com/user-attachments/assets/b89b19e7-7132-4b9d-a21f-48c6c9a2be50" />
 Power BI Dashboard
 
 <img width="1380" height="758" alt="image" src="https://github.com/user-attachments/assets/b2c4331a-1a19-4ca8-a4f0-8111f4873f34" />
 
+
+
+✅ Conclusion
+This project showcases practical skills in data analysis, SQL querying, and data visualization. It reflects the ability to handle real-world datasets and present insights effectively using modern analytics tools.
