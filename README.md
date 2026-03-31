@@ -53,3 +53,9 @@ Built a user-friendly dashboard for decision-making.
 
 ✅ Conclusion
 This project showcases practical skills in data analysis, SQL querying, and data visualization. It reflects the ability to handle real-world datasets and present insights effectively using modern analytics tools.
+
+
+Power BI Dashboard
+
+<img width="1380" height="758" alt="image" src="https://github.com/user-attachments/assets/b2c4331a-1a19-4ca8-a4f0-8111f4873f34" />
+
